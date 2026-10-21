@@ -1,26 +1,46 @@
+<div align="center">
+
 # 🐭 Catch Me If You Type 🐱
 
-**A cute cat-and-mouse typing race for your browser.**
-Every correct key is one step. Type fast to escape, or type faster to catch!
+**A cute cat-and-mouse typing race. Every correct key is one step.**
+
+🎮 **[Play Now](https://sf-ryanyan.github.io/Catchmeifyoutype/)**
+
+`2 Characters` · `5 Levels` · `Endless Mode` · `No Download`
+
+</div>
 
 ---
 
-## 👋 About Me
+## 🌟 Overview
 
-Hi, I'm **Ryan Yan**. I'm a marketing data and AI engineer, and a real estate agent.
-I like using AI to build simple tools and games that are useful and fun.
+Pick a side and race the computer! Play as **Pip the Mouse** and carry the cheese home, or play as **Mochi the Cat** and catch Pip before he gets there. The faster and more accurately you type, the faster you run.
+
+The game is all in English, so it is great for kids, students, and anyone practicing English typing.
+
+> 💡 Free to play in your browser. No install, no sign-up.
 
 ---
 
-## 🎮 About the Game
+## ✨ Features
 
-Pick a side and race the computer.
+- 🐭🐱 **Two playable characters:** be the mouse or the cat
+- 🗺️ **5 levels in 5 cute places:** from the kitchen to Dream Land
+- 📈 **Step-by-step learning:** single letters → short words → long words → sentences → paragraphs
+- ⚡ **Zoom Mode:** type 10 keys in a row correctly for a speed boost
+- 🌈 **Endless challenge:** Dream Land keeps getting faster
+- ⭐ **Stars and scores:** see your WPM, accuracy, and best combo
+- 🔊 **Cute sound effects**, with an on/off button
+- 💾 **Progress saved** in your own browser
 
-- 🐭 **Pip the Mouse:** Carry the cheese home before Mochi catches you.
-- 🐱 **Mochi the Cat:** Catch Pip before he reaches his cheese house.
+---
 
-The game is all in English, so it's great for kids, students, and anyone
-practicing English typing.
+## 🐾 Characters
+
+| Character | Goal |
+|---|---|
+| 🐭 **Pip the Mouse** | Carry the cheese home before Mochi catches you |
+| 🐱 **Mochi the Cat** | Catch Pip before he reaches his cheese house |
 
 ---
 
@@ -34,86 +54,65 @@ practicing English typing.
 | 4 | 🌙 Rooftop | Sentences | 55 WPM |
 | 5 | 🌈 Dream Land | Paragraphs, endless | Starts at 60 WPM, +5 every 10 seconds |
 
-*WPM = words per minute.*
-Beat a level to unlock the next one. Beat all four to unlock **Dream Land**.
-
----
-
-## 🎯 Goal
-
-Build typing **speed** and **accuracy** in a way that feels like play, not homework.
-The levels go from single letters to full sentences, so players grow step by step.
-
----
-
-## 📏 Rules
-
-- ✅ **Correct key:** your character moves one step.
-- ❌ **Wrong key:** your character slips back. Later levels slip more.
-- ⚡ **10 correct keys in a row:** **Zoom Mode!** You run 50% faster for 4 seconds.
-- 🏁 **Mouse wins** by reaching the cheese house. **Cat wins** by catching the mouse.
-- 🌈 **Dream Land:** There is no finish line. The mouse runs as far as possible.
-  The cat keeps catching Pip, but loses if Pip gets too far ahead.
+*WPM = words per minute.* Beat a level to unlock the next one. Beat all four to unlock **Dream Land**.
 
 ---
 
 ## 🕹️ How to Play
 
-1. Open the game and choose **Pip** or **Mochi**.
-2. Pick a level.
-3. After the 3-2-1 countdown, type the **yellow letter**. Spaces and punctuation count too.
-4. At the end, see your **WPM**, **accuracy**, **best combo**, and **stars**.
+1. Choose **Pip** or **Mochi**
+2. Pick a level
+3. After the **3-2-1** countdown, type the **yellow letter**. Spaces and punctuation count too.
+4. Keep typing to run. Win the race!
+5. At the end, see your **WPM**, **accuracy**, **best combo**, and **stars**
 
-| Key | Action |
+---
+
+## 📏 Rules
+
+- ✅ **Correct key:** your character moves one step
+- ❌ **Wrong key:** your character slips back. Later levels slip more.
+- ⚡ **10 correct keys in a row:** Zoom Mode! Run 50% faster for 4 seconds.
+- 🏁 **Mouse wins** by reaching the cheese house. **Cat wins** by catching the mouse.
+- 🌈 **Dream Land:** there is no finish line. The mouse runs as far as possible. The cat keeps catching Pip, but loses if Pip gets too far ahead.
+- ⭐ **Stars:** 3 stars for 96%+ accuracy, 2 stars for 88%+, 1 star for a win
+
+---
+
+## ⌨️ Controls
+
+| Action | How |
 |---|---|
-| Letters / space | Type |
-| `Esc` | Pause |
-| `Enter` | Next level / try again |
+| Type | Letter keys and `Space` |
+| Pause | `Esc` or the pause button |
+| Next level / Try again | `Enter` |
+| Sound on/off | Speaker button, top right |
+| Unlock all levels | **Practice mode** on the main screen |
 
-⭐ **Stars:** 3 stars for 96%+ accuracy, 2 stars for 88%+, 1 star for a win.
-
----
-
-## ❓ FAQ
-
-**Do I need to install anything?**
-No. It runs in any modern web browser: Chrome, Safari, Edge, or Firefox.
-
-**Does it work on a phone?**
-Yes, but a real keyboard works best. On a phone, tap the text box to open the keyboard.
-
-**Is my progress saved?**
-Yes, in your own browser. If you clear your browser data or switch devices, it starts over.
-
-**Can I unlock all levels right away?**
-Yes. On the main screen, click **"Practice mode: unlock all levels."**
-
-**Is there sound?**
-Yes, cute sound effects. Use the speaker button in the top right to turn them off.
-
-**Is it free?**
-Yes, free to play.
-
-**Who are Pip and Mochi?**
-Original characters made for this game.
+> 📱 On a phone, tap the text box to open the keyboard. A real keyboard works best.
 
 ---
 
-## 🛠️ Built With
+## 🙏 Acknowledgements
 
-- One single HTML file. No install, no server.
-- HTML, CSS, and JavaScript
-- Characters and scenes drawn with code (Canvas)
-- Sound effects made in the browser (Web Audio)
-- Built with the help of AI
+- ⌨️ Inspired by classic typing race games
+- 🔤 Fonts from **Google Fonts**: Grandstander, Nunito, and DM Mono
+- 🤖 Built with the help of AI tools
 
 ---
 
-## 💛 Have Fun!
+## ⚠️ Disclaimer
 
-Thanks for playing. I hope Pip and Mochi make your typing practice a little more fun.
-Happy typing! 🧀⌨️
+This game is for fun and typing practice only. Pip and Mochi are original characters, and all artwork is original. The game is not connected to any other typing program or cartoon. The game does not collect any personal data.
 
 ---
 
-© 2026 Ryan Yan. All rights reserved.
+## 👋 About Me
+
+Hi, I'm **Ryan Yan**, a data analyst. I enjoy building small, fun web projects with AI.
+
+<div align="center">
+
+🧀 *Happy typing, and may the fastest fingers win!* ⌨️
+
+</div>
